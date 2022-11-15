@@ -1,2 +1,2 @@
-# multicraft-papermc
-Multicraft papermc
+# multicraft-purpurmc
+Multicraft purpurmc
